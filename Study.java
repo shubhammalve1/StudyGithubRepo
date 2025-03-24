@@ -6,5 +6,6 @@ public class Study {
 
         int num3 = 0;
 
+        String Button = "Button";
     }
 }
