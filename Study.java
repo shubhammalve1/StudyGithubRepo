@@ -6,6 +6,13 @@ public class Study {
 
         int num3 = 0;
 
+<<<<<<< HEAD
         String Button = "Button";
+=======
+        String hope = "Hope";
+>>>>>>> main
     }
 }
+
+
+
